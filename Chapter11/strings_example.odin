@@ -1,4 +1,4 @@
-package more_container_types
+package strings_example
 
 import "core:fmt"
 
