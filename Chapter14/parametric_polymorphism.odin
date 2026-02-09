@@ -1,4 +1,4 @@
-package easier_memory_management
+package parametric_polymorphism
 
 import "core:fmt"
 
