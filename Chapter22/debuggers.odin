@@ -1,4 +1,4 @@
-package c_library_bindings
+package debuggers
 
 import "core:fmt"
 
